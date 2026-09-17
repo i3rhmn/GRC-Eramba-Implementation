@@ -838,8 +838,9 @@ GRC-Eramba-Implementation/
 ```
 Project Report
 --------------
+The complete project report is available below:
 
-To view the full project report, you can download it here:
+📄 **[Download the IT8515 GRC Project Report](./GRC-Eramba-Project-Report.docx)**
 
 **IT8515 GRC Project Report**
 
@@ -851,7 +852,29 @@ This project demonstrates an end-to-end **GRC implementation using Eramba** for 
 The implementation connects:
 
 ```
-   Governance      |      +-- Assets      |      +-- Risks      |      +-- Policies      |      +-- Controls      |      +-- Compliance      |      +-- Privacy      |      +-- Third Parties      |      +-- Incidents      |      +-- Risk Treatment      |      +-- Improvement Projects      |      +-- Dashboards
+   Governance
+        |
+        +-- Assets
+        |
+        +-- Risks
+        |
+        +-- Policies
+        |
+        +-- Controls
+        |
+        +-- Compliance
+        |
+        +-- Privacy
+        |
+        +-- Third Parties
+        |
+        +-- Incidents
+        |
+        +-- Risk Treatment
+        |
+        +-- Improvement Projects
+        |
+        +-- Dashboards
 ```
 
 The project provided practical hands-on experience in building and integrating GRC processes within a centralized platform.
